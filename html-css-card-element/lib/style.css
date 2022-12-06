@@ -1,0 +1,26 @@
+/* * {
+    border: 5px solid red;
+} */
+body {
+    max-width: 430px;
+    margin: auto;
+    border: 2px solid black;
+    font-family: monospace;
+}
+
+div {
+    text-align: left;
+}
+
+img {
+    margin: auto;
+}
+
+.container {
+    padding: 5px;
+    margin: 5px;
+}
+
+.card {
+    box-shadow: 0 15px 8px 0 rgba(0,0,0,0.2);
+}

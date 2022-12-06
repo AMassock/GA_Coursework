@@ -1,0 +1,60 @@
+body {
+    text-align: left;
+    width: 900px;
+    background-color: whitesmoke;
+    padding-left: 300px;
+    text-emphasis: none;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 48px;
+    color: red;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+h3 {
+    color: rgba(108, 128, 137, .6);
+    font-size: 36px;
+}
+
+h4 {
+    font-size: 28px;
+    text-emphasis: none;
+}
+
+nav {
+    display: inline;
+    list-style-type: none;
+    color: rgba(108, 128, 137, .3);
+}
+
+li {
+    display: inline;
+    text-decoration: underline;
+}
+
+.footer {
+    text-decoration: none;
+}
+
+.continue {
+    text-align: right;
+}
+
+#navlist {
+    font-size: 36px;
+}
+
+/* .subhead::first-letter {
+    initial-letter: normal | 2;
+  } */
