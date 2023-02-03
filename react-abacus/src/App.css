@@ -1,0 +1,8 @@
+.container {
+  text-align: center;
+}
+
+CounterList {
+  display: inline-block;
+  min-width: 30%;
+}
