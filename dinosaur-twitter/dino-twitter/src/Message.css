@@ -1,0 +1,15 @@
+.container {
+    background-color: grey;
+    text-align: left;
+    margin: 100px;
+    padding: 25px;
+}
+
+.data {
+    display: flex;
+}
+
+.data p {
+    padding: 10px;
+    font-size: 14px;
+}
