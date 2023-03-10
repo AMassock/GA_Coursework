@@ -1,0 +1,5 @@
+Next, we set some options that we'll pass into fs.readFile. We call it with the filename (myfile.txt), the options we just created, and a callback. When the file has been read off of disk, Node will jump into your callback.
+Most callbacks in Node are called with an error as their first argument. If all goes well, the err argument will be null. But if things don't go so well (maybe the file didn't exist or was corrupted), the err argument will have some value. It's a best practice to handle those errors. Sometimes the errors don't completely halt your program and you can continue on, but you often handle the error and then break out of the callback by throwing an error or returning.
+This is a common Node practice and you'll see it almost everywhere you see a callback.
+Finally, once we know we don't have any errors, we print out the number of X's in the file! We use a little regular expression trick to do this.
+Okay, pop quiz: what happens if we added a console.log statement at the very end of this file, like this?

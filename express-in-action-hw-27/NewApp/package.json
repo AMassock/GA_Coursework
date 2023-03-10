@@ -1,0 +1,9 @@
+{
+    "name": "our-group-app",
+    "author": "AJ Spychalstein",
+    "private": true,
+    "version": "0.2.0",
+    "dependencies": {
+        "mustache": "^4.2.0"
+    }
+}

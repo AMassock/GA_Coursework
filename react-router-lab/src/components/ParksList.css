@@ -1,0 +1,39 @@
+/* * {
+    border: 1px solid red;
+} */
+
+img {
+    height: 280px;
+    width: 280px;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.parkPrev {
+    border: 1px solid red;
+    height: 300px;
+    width: 300px;
+    /* display: flex; */
+    margin: 10px;
+    position: relative;
+
+}
+
+.all-parks {
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+
+img:hover {
+    opacity: 0.5;
+}
+
+.parkPrev p {
+    color: white;
+    display: flex;
+    border: 1px solid red;
+    text-align: center;
+    position: absolute;
+    transform: translate(-50%, 0);
+}

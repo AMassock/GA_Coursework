@@ -1,0 +1,19 @@
+{
+  "name": "99_bottles_express-hw-26",
+  "version": "1.0.0",
+  "description": "Homework 26",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.generalassemb.ly:amassga/99_bottles_express-hw-26.git"
+  },
+  "author": "AJ Massock",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
