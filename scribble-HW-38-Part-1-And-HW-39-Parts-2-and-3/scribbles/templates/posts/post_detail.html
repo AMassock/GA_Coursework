@@ -1,0 +1,43 @@
+{% extends "base.html" %} {% block content %}
+
+<div>
+  <h2>Title: {{ post.title }}</h2>
+  <h3>Post By: {{ post.author }}</h3>
+  <p>{{ post.body }}</p>
+
+  <div>
+    <button>
+      <a href="{% url 'new_comment' %}">Comment</a>
+    </button>
+
+    <button>
+      <a href="{% url 'post_edit' pk=post.id %}">Edit</a>
+    </button>
+
+    <button>
+      <a href="{% url 'post_delete' pk=post.id %}">Delete</a>
+    </button>
+  </div>
+
+  <div>
+    <h4>Comments:</h4>
+    <ul>
+      {% for comment in comments %}
+      <li>
+        <p>{{comment.body}}</p>
+        <p>{{comment.author}}</p>
+        <div>
+          <button>
+            <a href="{% url 'comment_edit' pk=comment.id%}">Edit Comment</a>
+          </button>
+          <button>
+            <a href="{% url 'comment_delete' pk=comment.id%}">Delete Comment</a>
+          </button>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+{% endblock content %}

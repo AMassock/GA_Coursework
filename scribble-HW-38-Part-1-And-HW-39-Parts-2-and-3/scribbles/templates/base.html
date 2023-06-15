@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <title>Scribbles</title>
+  </head>
+
+  <body>
+    <h1>
+      <a href="{% url 'post_list' %}"> Scribbles </a>
+    </h1>
+
+    <nav>
+      <a href="{% url 'post_new' %}"> New Post </a>
+
+      <a href="{% url 'post_list' %}"> All Posts </a>
+    </nav>
+    {% block content %} {% endblock %}
+  </body>
+</html>
