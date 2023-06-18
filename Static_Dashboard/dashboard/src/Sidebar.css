@@ -1,0 +1,17 @@
+.Sidebar {
+    background-color: grey;
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    overflow: hidden;
+}
+
+ul {
+    list-style: none;
+    display: flexbox;
+}
+
+li {
+    padding: 15px;
+    flex-direction: column;
+}

@@ -1,0 +1,13 @@
+.Visitors {
+    background-color: lightgrey;
+    width: 70%;
+    margin-left: 212px;
+    height: 500px;
+    padding: 25px;
+}
+
+.empty-box {
+    background-color: grey;
+    height: 200px;
+    width: 50%;
+}
