@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Trista Rehn",
+        "year": 2003,
+        "winner": "Ryan Sutter"
+    },
+    {
+        "name": "Meredith Phillips",
+        "year": 2004,
+        "winner": "Ian McKee"
+    },
+    {
+        "name": "Jen Schefft",
+        "year": 2005,
+        "winner": "Jerry Ferris"
+    },
+    {
+        "name": "DeAnna Pappas",
+        "year": 2008,
+        "winner": "Jesse Csincsak"
+    },
+    {
+        "name": "Jillian Harris",
+        "year": 2009,
+        "winner": "Ed Swiderski"
+    },
+    {
+        "name": "Ali Fedotowsky",
+        "year": 2010,
+        "winner": "Robert Martinez"
+    },
+    {
+        "name": "Ashley Hebert",
+        "year": 2011,
+        "winner": "J.P. Rosenbaum"
+    },
+    {
+        "name": "Emily Maynard",
+        "year": 2012,
+        "winner": "Jef Holm"
+    },
+    {
+        "name": "Desiree Hartsock",
+        "year": 2013,
+        "winner": "Chris Siegfried"
+    },
+    {
+        "name": "Andi Dorfman",
+        "year": 2014,
+        "winner": "Josh Murray"
+    },
+    {
+        "name": "Kaitlyn Bristowe",
+        "year": 2015,
+        "winner": "Shawn Booth"
+    },
+    {
+        "name": "Joelle Fletcher",
+        "year": 2016,
+        "winner": "Jordan Rodgers"
+    },
+    {
+        "name": "Rachel Lindsay",
+        "year": 2017,
+        "winner": "Bryan Abasolo"
+    },
+    {
+        "name": "Becca Kufrin",
+        "year": 2017,
+        "winner": "Garrett Yrigoyen",
+        "stillTogether": true
+    }
+]

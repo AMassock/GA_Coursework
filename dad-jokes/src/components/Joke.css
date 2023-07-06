@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    max-width: 50%;
+    max-height: fit-content;
+    box-shadow: 5px 5px 5px teal;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 0 auto;
+}

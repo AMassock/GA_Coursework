@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Alex Michel",
+        "year": 2002,
+        "winner": "Amanda Marsh"
+    },
+    {
+        "name": "Aaron Buerge",
+        "year": 2002,
+        "winner": "Helene Eksterowicz"
+    },
+    {
+        "name": "Andrew Firestone",
+        "year": 2003,
+        "winner": "Jen Schefft"
+    },
+    {
+        "name": "Bob Guiney",
+        "year": 2003,
+        "winner": "Estella Gardinier"
+    },
+    {
+        "name": "Jesse Palmer",
+        "year": 2004,
+        "winner": "Jessica Bowlin"
+    },
+    {
+        "name": "Byron Velvick",
+        "year": 2004,
+        "winner": "Mary Delgado"
+    },
+    {
+        "name": "Charlie O'Connell",
+        "year": 2005,
+        "winner": "Sarah Brice"
+    },
+    {
+        "name": "Travis Lane Stork",
+        "year": 2006,
+        "winner": "Sarah Stone"
+    },
+    {
+        "name": "Lorenzo Borghese",
+        "year": 2006,
+        "winner": "Jennifer Wilson"
+    },
+    {
+        "name": "Andrew Baldwin",
+        "year": 2007,
+        "winner": "Tessa Horst"
+    },
+    {
+        "name": "Brad Womack",
+        "year": 2007,
+        "winner": "None"
+    },
+    {
+        "name": "Matt Grant",
+        "year": 2008,
+        "winner": "Shayne Lamas"
+    },
+    {
+        "name": "Jason Mesnick",
+        "year": 2009,
+        "winner": "Melissa Rycroft"
+    },
+    {
+        "name": "Jake Pavelka",
+        "year": 2010,
+        "winner": "Vienna Girardi"
+    },
+    {
+        "name": "Brad Womack",
+        "year": 2011,
+        "winner": "Emily Maynard"
+    },
+    {
+        "name": "Ben Flajnik",
+        "year": 2012,
+        "winner": "Courtney Robertson"
+    },
+    {
+        "name": "Sean Lowe",
+        "year": 2013,
+        "winner": "Catherine Giudici",
+        "stillTogether": true
+    },
+    {
+        "name": "Juan Pablo Galavis",
+        "year": 2014,
+        "winner": "Nikki Ferrell"
+    },
+    {
+        "name": "Chris Soules",
+        "year": 2015,
+        "winner": "Whitney Bischoff"
+    },
+    {
+        "name": "Ben Higgins",
+        "year": 2016,
+        "winner": "Lauren Bushnell"
+    },
+    {
+        "name": "Nick Viall",
+        "year": 2017,
+        "winner": "Vanessa Grimaldi"
+    },
+    {
+        "name": "Arie Luyendyk",
+        "year": 2018,
+        "winner": "Becca Kufrin"
+    },
+    {
+        "name": "Colton Underwood",
+        "year": 2019,
+        "winner": "Cassie Randolph"
+    }
+]
+

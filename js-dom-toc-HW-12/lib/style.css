@@ -1,0 +1,37 @@
+h1 {
+  font-size: 3.35em;
+}
+
+article {
+  width: 80%;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+#article-body {
+  margin: 8em 0;
+}
+
+#table-of-contents {
+  width: 100%;
+  min-height: 500px;
+  border: 1px solid darkBlue;
+  border-radius: 10px;
+  background-color: lightBlue;
+  margin: 2em 0;
+  padding: 2em;
+}
+
+#table-of-contents h1,
+#table-of-contents h2 {
+  margin: 0.5em 0;
+  font-weight: normal;
+}
+
+#table-of-contents a {
+  text-decoration: none;
+}
+
+p {
+  font-family: sans-serif;
+}
